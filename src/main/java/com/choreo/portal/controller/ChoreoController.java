@@ -21,4 +21,5 @@ public class ChoreoController {
     public List<Choreo> getAll() {
         return choreoService.getAll();
     }
+
 }
